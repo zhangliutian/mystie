@@ -1,0 +1,2 @@
+# mystie
+# Django learning!!!
